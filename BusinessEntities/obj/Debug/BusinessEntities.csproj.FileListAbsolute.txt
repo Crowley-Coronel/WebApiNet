@@ -1,0 +1,5 @@
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

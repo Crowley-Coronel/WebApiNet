@@ -1,0 +1,9 @@
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\bin\Debug\DataModel.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\obj\Debug\DataModel.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\DataModel\obj\Debug\DataModel.pdb
