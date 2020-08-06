@@ -15,9 +15,12 @@ namespace AplicacionWeb.Controllers
         /// <summary>
         /// Public constructor to initialize product service instance
         /// </summary>
-        public ProductController()
+        //public ProductController()
+        public ProductController(IProductServices productServices)
         {
-            _productServices = new ProductServices();
+            //_productServices = new ProductServices();
+            _productServices = productServices;
+
         }
         #endregion
         // GET api/product

@@ -19,11 +19,13 @@ namespace BusinessServices
         /// <summary>
         /// Public constructor.
         /// </summary>
-        public ProductServices()
+        //public ProductServices()
+        public ProductServices(UnitOfWork unitOfWork)
         {
             var config = new MapperConfiguration(cfg => cfg.CreateMap<Products, ProductEntity>());
             mapper = new Mapper(config);
-            _unitOfWork = new UnitOfWork();
+            //_unitOfWork = new UnitOfWork();
+            _unitOfWork = unitOfWork;
         }
 
         /// <summary>

@@ -104,3 +104,11 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\o
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Abstractions.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Container.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Mvc5.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.WebApi.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Abstractions.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Container.pdb
