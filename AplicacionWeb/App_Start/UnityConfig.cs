@@ -1,5 +1,5 @@
-using BusinessServices;
-using DataModel.UnitOfWork;
+//using BusinessServices;
+using Resolver;
 using System.Web.Http;
 using System.Web.Mvc;
 using Unity;
@@ -14,10 +14,12 @@ namespace AplicacionWeb
         {
 			var container = new UnityContainer();
 
+            ComponentLoader.LoadContainer(container, ".\\bin", "WebPrueba.dll");
+            ComponentLoader.LoadContainer(container, ".\\bin", "BussinessServices.dll");
 
-            container.RegisterType<IProductServices, ProductServices>().RegisterType<UnitOfWork>(new HierarchicalLifetimeManager());
-            
-            DependencyResolver.SetResolver(new Unity.Mvc5.UnityDependencyResolver(container));
+            //container.RegisterType<IProductServices, ProductServices>().RegisterType<UnitOfWork>(new HierarchicalLifetimeManager());
+
+            // DependencyResolver.SetResolver(new Unity.Mvc5.UnityDependencyResolver(container));
             GlobalConfiguration.Configuration.DependencyResolver = new Unity.WebApi.UnityDependencyResolver(container);
 
         }

@@ -13,7 +13,7 @@ namespace DataModel.UnitOfWork
     /// <summary>
     /// Unit of Work class responsible for DB transactions
     /// </summary>
-    public class UnitOfWork : IDisposable
+    public class UnitOfWork : IUnitOfWork, IDisposable
     {
         #region Private member variables...
 

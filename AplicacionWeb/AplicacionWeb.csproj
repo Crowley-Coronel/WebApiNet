@@ -340,9 +340,9 @@
       <Project>{6de9be09-d10f-4bc1-b99c-a35b5bce8ab9}</Project>
       <Name>BussinessServices</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DataModel\DataModel.csproj">
-      <Project>{F7B80637-5684-45F4-8C38-56CE2FA8C9DF}</Project>
-      <Name>DataModel</Name>
+    <ProjectReference Include="..\Resolver\Resolver.csproj">
+      <Project>{48905e96-68f7-4e43-8796-c7e485dc4cba}</Project>
+      <Name>Resolver</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
