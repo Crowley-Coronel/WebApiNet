@@ -1,5 +1,3 @@
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csprojAssemblyReference.cache
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AplicacionWeb.dll.config
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AplicacionWeb.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AplicacionWeb.pdb
@@ -101,6 +99,8 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\b
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\es\System.Web.WebPages.resources.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csprojAssemblyReference.cache
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
