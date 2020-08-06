@@ -72,6 +72,7 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\b
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Container.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Mvc5.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.WebApi.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\WebActivator.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\WebGrease.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\DataModel.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AutoMapper.dll
@@ -94,6 +95,7 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\b
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\System.Web.WebPages.Razor.xml
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Abstractions.pdb
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Unity.Container.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\WebActivator.pdb
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Antlr3.Runtime.pdb
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\DataModel.pdb
@@ -115,3 +117,11 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\o
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.xml
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.xml
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.xml
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.WebHost.xml

@@ -3,11 +3,16 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using AttributeRouting.Web.Http;
+using AttributeRouting;
 using BusinessEntities;
 using BusinessServices;
 
+
+
 namespace AplicacionWeb.Controllers
 {
+    [AttributeRouting.RoutePrefix("api")]
     public class ProductController : ApiController
     {
         private readonly IProductServices _productServices;
@@ -16,6 +21,7 @@ namespace AplicacionWeb.Controllers
         /// Public constructor to initialize product service instance
         /// </summary>
         //public ProductController()
+        
         public ProductController(IProductServices productServices)
         {
             //_productServices = new ProductServices();
@@ -24,6 +30,8 @@ namespace AplicacionWeb.Controllers
         }
         #endregion
         // GET api/product
+        [HttpGet]
+        [HttpRoute("product")]
         public HttpResponseMessage Get()
         {
             var products = _productServices.GetAllProducts();
@@ -32,6 +40,8 @@ namespace AplicacionWeb.Controllers
             return Request.CreateErrorResponse(HttpStatusCode.NotFound, "Products not found");
         }
         // GET api/product/5
+        [HttpGet]
+        [HttpRoute("product/{id}")]
         public HttpResponseMessage Get(int id)
         {
             var product = _productServices.GetProductById(id);

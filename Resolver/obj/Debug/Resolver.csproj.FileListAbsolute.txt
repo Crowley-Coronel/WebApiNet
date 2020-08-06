@@ -27,8 +27,8 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\bin\De
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\bin\Debug\es\System.Web.WebPages.resources.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csproj.CoreCompileInputs.cache
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
