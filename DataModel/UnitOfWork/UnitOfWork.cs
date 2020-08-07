@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Data.Entity.Validation;
 using DataModel.GenericRepository;
+using System.Configuration;
 
 #endregion
 
@@ -25,7 +26,10 @@ namespace DataModel.UnitOfWork
 
         public UnitOfWork()
         {
-            _context = new WebApiDbEntities();
+            string connectionString = "data source = DESKTOP-PSE89AN\\SQLEXPRESS;initial catalog=WebApiDb;user id=genaro; password=genaro123; MultipleActiveResultSets=True;";
+            //string connectionString = ConfigurationManager.ConnectionStrings["WebApiDbEntities"].ToString();
+            //string connectionString = "data source=192.168.1.116\\sqlServer2016;initial catalog=WebApiDb;user id=etrv;password=123;MultipleActiveResultSets=True;"
+            _context = new WebApiDbEntities(connectionString);
         }
 
         #region Public Repository Creation properties...

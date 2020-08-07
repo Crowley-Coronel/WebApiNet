@@ -1,4 +1,10 @@
-﻿using DataModel.UnitOfWork;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Transactions;
+using AutoMapper;
+using BusinessEntities;
+using DataModel;
+using DataModel.UnitOfWork;
 
 
 namespace BussinessServices
@@ -23,6 +29,24 @@ namespace BussinessServices
 
             return 0;
 
+        }
+
+        public int CreateUser(BusinessEntities.UserEntity userEntity)
+        {
+            using (var scope = new TransactionScope())
+            {
+                var user = new User
+                {
+                    UserName = userEntity.Name,
+                    Password = userEntity.Password,
+                    Name = userEntity.Name
+                };
+                
+                _unitOfWork.UserRepository.Insert(user);
+                _unitOfWork.Save();
+                scope.Complete();
+                return user.UserId;
+            }
         }
 
     }

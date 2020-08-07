@@ -37,6 +37,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
     <Reference Include="System.Runtime.Serialization" />
@@ -51,6 +52,7 @@
   <ItemGroup>
     <Compile Include="DependencyResolver.cs" />
     <Compile Include="GenericRepository\GenericRepository.cs" />
+    <Compile Include="PartialClassDataModel.cs" />
     <Compile Include="Products.cs">
       <DependentUpon>WebApiDataModel.tt</DependentUpon>
     </Compile>
