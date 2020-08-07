@@ -40,6 +40,7 @@ namespace BussinessServices
                     UserName = userEntity.Name,
                     Password = userEntity.Password,
                     Name = userEntity.Name
+
                 };
                 
                 _unitOfWork.UserRepository.Insert(user);
