@@ -117,11 +117,3 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\o
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.dll
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.dll
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.dll
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.xml
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.xml
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.xml
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.WebHost.dll
-C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\AplicacionWeb\bin\AttributeRouting.Web.Http.WebHost.xml

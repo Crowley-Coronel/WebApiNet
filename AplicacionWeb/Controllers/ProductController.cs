@@ -3,16 +3,14 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using AttributeRouting.Web.Http;
-using AttributeRouting;
 using BusinessEntities;
 using BusinessServices;
 
-
-
 namespace AplicacionWeb.Controllers
 {
-    [AttributeRouting.RoutePrefix("api")]
+    //[AttributeRouting.RoutePrefix("v1")]
+    [System.Web.Http.RoutePrefix("v1")]
+
     public class ProductController : ApiController
     {
         private readonly IProductServices _productServices;
@@ -30,8 +28,9 @@ namespace AplicacionWeb.Controllers
         }
         #endregion
         // GET api/product
-        [HttpGet]
-        [HttpRoute("product")]
+        //[AttributeRouting.Web.Http.HttpRoute("product")]
+        [HttpGet, Route("product")]
+
         public HttpResponseMessage Get()
         {
             var products = _productServices.GetAllProducts();
@@ -40,8 +39,7 @@ namespace AplicacionWeb.Controllers
             return Request.CreateErrorResponse(HttpStatusCode.NotFound, "Products not found");
         }
         // GET api/product/5
-        [HttpGet]
-        [HttpRoute("product/{id}")]
+        [HttpGet, Route("productid/{id}")]
         public HttpResponseMessage Get(int id)
         {
             var product = _productServices.GetProductById(id);
@@ -50,11 +48,13 @@ namespace AplicacionWeb.Controllers
             return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No product found for this id");
         }
         // POST api/product
+        [HttpPost, Route("product")]
         public int Post([FromBody] ProductEntity productEntity)
         {
             return _productServices.CreateProduct(productEntity);
         }
         // PUT api/product/5
+        [HttpPut, Route("product/{id}")]
         public bool Put(int id, [FromBody] ProductEntity productEntity)
         {
             if (id > 0)
@@ -64,6 +64,7 @@ namespace AplicacionWeb.Controllers
             return false;
         }
         // DELETE api/product/5
+        [HttpDelete, Route("product/{id}")]
         public bool Delete(int id)
         {
             if (id > 0)

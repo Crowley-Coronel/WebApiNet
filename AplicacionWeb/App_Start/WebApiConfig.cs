@@ -12,7 +12,7 @@ namespace AplicacionWeb
             // Configuración y servicios de API web
 
             // Rutas de API web
-            //config.MapHttpAttributeRoutes();
+            config.MapHttpAttributeRoutes();
 
             //config.Routes.MapHttpRoute(
             //    name: "DefaultApi",
