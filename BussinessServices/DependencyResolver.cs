@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.Composition;
+using BussinessServices;
 using DataModel;
 using DataModel.UnitOfWork;
 using Resolver;
@@ -10,6 +11,8 @@ namespace BusinessServices
         public void SetUp(IRegisterComponent registerComponent)
         {
             registerComponent.RegisterType<IProductServices, ProductServices>();
+            registerComponent.RegisterType<IUserServices, UserServices>();
+            registerComponent.RegisterType<ITokenServices, TokenServices>();
         }
     }
 }

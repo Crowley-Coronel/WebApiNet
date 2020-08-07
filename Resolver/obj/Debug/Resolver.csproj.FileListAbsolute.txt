@@ -31,3 +31,4 @@ C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\De
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csproj.CopyComplete
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.dll
 C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.pdb
+C:\Users\Test.DESKTOP-PSE89AN\Documents\Practictas\inicio\WebApi\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache

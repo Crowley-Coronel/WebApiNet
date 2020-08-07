@@ -3,6 +3,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using AplicacionWeb.ActionFilters;
 using BusinessEntities;
 using BusinessServices;
 
@@ -29,6 +30,7 @@ namespace AplicacionWeb.Controllers
         #endregion
         // GET api/product
         //[AttributeRouting.Web.Http.HttpRoute("product")]
+        [AuthorizationRequired]
         [HttpGet, Route("product")]
 
         public HttpResponseMessage Get()
